@@ -1,0 +1,13 @@
+{
+    "0": {
+      "barcode_value": 0,
+      "model_name": "LANDSCAPE",
+      "model_url": "",
+      "position": { "x": 0, "y": 0, "z": 0 },
+      "rotation": { "x": -90, "y": 0, "z": 0 },
+      "color": "#795548",
+      "width": 19,
+      "height": 15
+    }
+  }
+  
